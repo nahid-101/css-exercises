@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.class-one, .class-two {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-one {
+    color: blue;
+    font-size: 36px;
+}
+
+.class-two {
+    font-size: 24px;
+}
+
+.class-three {
+    background-color: rgb(140, 255, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
