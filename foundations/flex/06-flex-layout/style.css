@@ -30,7 +30,7 @@ input {
 }
 
 ul li a {
-  text-decoration: solid;
+  text-decoration: none;
   color: rgb(100, 100, 100);
 }
 
